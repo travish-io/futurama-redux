@@ -1,0 +1,72 @@
+.bg-1 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.xuhm4l0vzgm7D41TSlRiqQHaEo%26pid%3DApi&f=1");
+  opacity: 0.6;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.bg-2 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fen.futurama%2Fimages%2Fa%2Fae%2FTuranga-Leela.png%2Frevision%2Flatest%3Fcb%3D20200506091523&f=1&nofb=1");
+  opacity: 0.6;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  position: absolute;
+}
+.bg-3 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmemegenerator.net%2Fimg%2Fimages%2F5906307%2Fbender-pimp-2.jpg&f=1&nofb=1");
+  opacity: 0.6;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.bg-4 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-DG9tMMIvVYU%2FTz7F0E4--CI%2FAAAAAAAAAEE%2F-JjrojxaUYM%2Fs1600%2Fnave.png&f=1&nofb=1");
+  opacity: 0.6;
+  z-index: -1;
+  height: 130px;
+  width: 300px;
+  position: absolute;
+}
+
+.bg-5 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Ffb%2F21%2F37%2Ffb213714164cba82fa2177dc74c01a48.png&f=1&nofb=1");
+  opacity: 0.6;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  position: absolute;
+}
+.bg-6 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimgix.ranker.com%2Fuser_node_img%2F50088%2F1001749510%2Foriginal%2Fwhich-one-photo-u1%3Fw%3D650%26q%3D50%26fm%3Dpjpg%26fit%3Dcrop%26crop%3Dfaces&f=1&nofb=1");
+  opacity: 0.6;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  position: absolute;
+}
+
+.bg-7 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F4.bp.blogspot.com%2F-SiOlC3BRzeM%2FUbZZ8XmS9UI%2FAAAAAAAAEL8%2FWrt-LkFh6lM%2Fs1600%2F1x1.jpg&f=1&nofb=1");
+  opacity: 0.5;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  position: absolute;
+}
+
+.user-profile {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-height: 100vh;
+  width: 80%;
+}
